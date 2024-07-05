@@ -143,7 +143,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Documentation
 
-For detailed documentation, please refer to [Blood Bank.pdf](https://github.com/Sk-Azraf-Sami/Blood-Bank/blob/main/Blood%20Bank.pdf).
+For detailed documentation, please refer to [Blood Bank.pdf](https://github.com/ExpC0/iPhoneAppBloodBank/blob/main/Blood%20Bank.pdf).
 
 ## Contact
 
